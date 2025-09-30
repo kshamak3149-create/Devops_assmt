@@ -52,7 +52,7 @@ Adithya\_devops\_assmt/
 2. Launch everything:
 
    ```bash
-   docker-compose up --build
+   docker-compose up --build -d
    ```
 
 3. Access the services:
